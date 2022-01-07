@@ -3,10 +3,10 @@
   "id": "leather",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Sandbox Leather",
+  "description": "Redefines Leather armour, having it provide invisibility when sneaking.",
   "authors": [
-    "Me!"
+    "Brent Crocker"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
